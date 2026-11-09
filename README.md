@@ -1,7 +1,7 @@
 <div align="center">
 
 # root@jxbani:~$ whoami
-### **Yacoub BaniYounis** | Founder & CEO @ NexKernel | Network & Cybersecurity Engineer
+### **Jacob BaniYounis** | Founder & CEO @ NexKernel | Network & Cybersecurity Engineer
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/jxbani) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/jxbani) 
